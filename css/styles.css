@@ -3,19 +3,8 @@
   margin: 0;
 }
 
-.componentGrid ul {
-  padding: 20px;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 10px;
-}
-.componentGrid ul li {
-  display: flex;
-  padding: 20px;
-  background-color: #f1f1f1;
-  border-radius: 20px;
-  justify-content: center;
-  align-items: center;
+.componentVideo iframe {
+  border: none !important;
 }
 
 /*# sourceMappingURL=styles.css.map */
